@@ -1,0 +1,16 @@
+E:\Archivos\VS 2022\Formulario\Formulario\Formulario\bin\Debug\netstandard2.0\Formulario.deps.json
+E:\Archivos\VS 2022\Formulario\Formulario\Formulario\bin\Debug\netstandard2.0\Formulario.dll
+E:\Archivos\VS 2022\Formulario\Formulario\Formulario\bin\Debug\netstandard2.0\ref\Formulario.dll
+E:\Archivos\VS 2022\Formulario\Formulario\Formulario\bin\Debug\netstandard2.0\Formulario.pdb
+E:\Archivos\VS 2022\Formulario\Formulario\Formulario\obj\Debug\netstandard2.0\Formulario.csproj.AssemblyReference.cache
+E:\Archivos\VS 2022\Formulario\Formulario\Formulario\obj\Debug\netstandard2.0\Formulario.GeneratedMSBuildEditorConfig.editorconfig
+E:\Archivos\VS 2022\Formulario\Formulario\Formulario\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Archivos\VS 2022\Formulario\Formulario\Formulario\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\Archivos\VS 2022\Formulario\Formulario\Formulario\obj\Debug\netstandard2.0\Formulario.AssemblyInfoInputs.cache
+E:\Archivos\VS 2022\Formulario\Formulario\Formulario\obj\Debug\netstandard2.0\Formulario.AssemblyInfo.cs
+E:\Archivos\VS 2022\Formulario\Formulario\Formulario\obj\Debug\netstandard2.0\Formulario.csproj.CoreCompileInputs.cache
+E:\Archivos\VS 2022\Formulario\Formulario\Formulario\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Archivos\VS 2022\Formulario\Formulario\Formulario\obj\Debug\netstandard2.0\Formulario.dll
+E:\Archivos\VS 2022\Formulario\Formulario\Formulario\obj\Debug\netstandard2.0\refint\Formulario.dll
+E:\Archivos\VS 2022\Formulario\Formulario\Formulario\obj\Debug\netstandard2.0\Formulario.pdb
+E:\Archivos\VS 2022\Formulario\Formulario\Formulario\obj\Debug\netstandard2.0\curriculum.xaml.g.cs
